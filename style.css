@@ -1,0 +1,22 @@
+#viewer {
+	border-collapse: collapse;
+    border: 1px solid gray;
+}
+#viewer td{
+    border: 1px solid gray;
+}
+#viewer td.narration{
+    color: rgb(80,80,80);
+}
+
+#viewer td.initial{
+    color: seagreen;
+}
+
+#viewer td.final{
+    color: MediumVioletRed;
+}
+
+#viewer td.chosen {
+	background-color: gold;
+}
